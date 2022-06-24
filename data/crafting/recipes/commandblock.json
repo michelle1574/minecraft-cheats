@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "TEF",
+        " B "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_star"
+        },
+        "T": {
+            "item": "minecraft:trident"
+        },
+        "E": {
+            "item": "minecraft:experience_bottle"
+        },
+        "F": {
+            "item": "minecraft:fire_charge"
+        },
+        "B": {
+            "item": "minecraft:bone_meal"
+        }
+    },
+    "result": {
+        "item": "minecraft:command_block",
+        "count": 1
+    }
+}

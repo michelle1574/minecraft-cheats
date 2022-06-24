@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#GR",
+        "PZQ",
+        "VCS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ochre_froglight"
+        },
+        "G": {
+            "item": "minecraft:glowstone"
+        },
+        "R": {
+            "item": "minecraft:redstone_lamp"
+        },
+        "P": {
+            "item": "minecraft:pearlescent_froglight"
+        },
+        "Z": {
+            "item": "minecraft:redstone_block"
+        },
+        "Q": {
+            "item": "minecraft:redstone_torch"
+        },
+        "V": {
+            "item": "minecraft:verdant_froglight"
+        },
+        "C": {
+            "item": "minecraft:campfire"
+        },
+        "S": {
+            "item": "minecraft:soul_campfire"
+        }
+    },
+    "result": {
+        "item": "minecraft:light",
+        "count": 9
+    }
+}
